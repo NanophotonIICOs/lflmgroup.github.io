@@ -147,8 +147,6 @@ The repos are developed and maintained by:
         <br>
         <a href="https://github.com/RUCO13"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ruco13?color=blue&label=O.%20Ruiz-Cigarrillo&logo=github&style=social"></a>
         <a href="https://twitter.com/RUCO0713"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/ruco0713?style=social"></a>
-        </br>
-        </br>
     </td>
 </tr>
 </table>
